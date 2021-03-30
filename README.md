@@ -1,5 +1,5 @@
 # Card
- Criando um animação de Card com Hover e CSS 
+ Criando um animação de Card com Hover 
 
 <img src="2021.gif">
 
