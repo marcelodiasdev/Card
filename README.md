@@ -6,7 +6,7 @@
 ---
 
 <h1> Tecnologias usadas:</h1>
-    
+    <ul>
       <li> HTML5  </li>
        <li> CSS3 </li>
         
